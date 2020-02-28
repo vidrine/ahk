@@ -23,4 +23,5 @@ ToggleWinMinimize(TheWindowTitle)
 	Return
 }
 
-^4::ToggleWinMinimize("Windows PowerShell")
+;^4::ToggleWinMinimize("Windows PowerShell")
+^4::ToggleWinMinimize("Microsoft Teams")
