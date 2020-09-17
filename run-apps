@@ -1,0 +1,5 @@
+; Create new Outlook message (Windows key + ')
+#'::Run, outlook.exe /c ipm.note
+
+; Create new Outlook appointment (Windows key + /)
+#/::Run, outlook.exe /c ipm.appointment
